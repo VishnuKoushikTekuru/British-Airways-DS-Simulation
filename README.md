@@ -2,24 +2,7 @@
 
 Two projects completed as part of the BA / Forage Data Science job simulation:
 a lounge eligibility forecasting model (Task 1) and a predictive model of
-customer booking completion (Task 2).
-
-## Repo structure
-
-```
-# this file — covers both projects
-
-├── task1-lounge-eligibility/
-│   ├── notebooks/Lounge_Eligibility_lookup.ipynb
-│   ├── outputs/Lounge_Eligibility_Lookup_Table_-_Task_1_Completed.xlsx
-│   └── data/                          # place source dataset here (excluded)
-└── task2-booking-prediction/
-    ├── notebooks/Getting_Started.ipynb
-    ├── outputs/BA_Booking_Prediction_Summary.pptx
-    ├── outputs/final_shap_direction.csv
-    ├── outputs/origin_country_summary.csv
-    └── data/                          # place source dataset here (excluded)
-```
+customer booking completion (Task 2)
 
 ## How to run either project
 
