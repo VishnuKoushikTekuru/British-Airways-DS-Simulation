@@ -1,0 +1,105 @@
+booking_origin,total_bookings,booking_rate
+Australia,17872,0.05035810205908684
+Malaysia,7174,0.3440200724839699
+South Korea,4559,0.10133801272208817
+Japan,3885,0.12303732303732304
+China,3387,0.20490109241216417
+Indonesia,2369,0.2596032081046855
+Taiwan,2077,0.10784785748675975
+Thailand,2030,0.2315270935960591
+India,1270,0.1031496062992126
+New Zealand,1074,0.05027932960893855
+Singapore,1044,0.28639846743295017
+United States,456,0.18421052631578946
+Vietnam,388,0.29381443298969073
+Macau,304,0.3125
+Hong Kong,295,0.24745762711864408
+Philippines,266,0.2819548872180451
+United Kingdom,173,0.12138728323699421
+Brunei,167,0.24550898203592814
+Cambodia,132,0.2727272727272727
+(not set),84,0.16666666666666666
+Sri Lanka,73,0.0136986301369863
+France,59,0.23728813559322035
+Italy,58,0.1896551724137931
+Canada,57,0.03508771929824561
+Germany,57,0.21052631578947367
+Myanmar (Burma),51,0.2549019607843137
+Netherlands,46,0.043478260869565216
+Mauritius,44,0.09090909090909091
+United Arab Emirates,42,0.07142857142857142
+Nepal,40,0.075
+Saudi Arabia,36,0.3055555555555556
+Bangladesh,36,0.05555555555555555
+Russia,32,0.09375
+Spain,27,0.037037037037037035
+Laos,25,0.24
+Switzerland,18,0.16666666666666666
+Chile,17,0.058823529411764705
+Qatar,15,0.3333333333333333
+Iran,14,0.0
+Sweden,12,0.4166666666666667
+Réunion,12,0.08333333333333333
+Brazil,9,0.0
+Mexico,9,0.1111111111111111
+Oman,9,0.3333333333333333
+Ireland,9,0.0
+Kuwait,9,0.2222222222222222
+Turkey,9,0.1111111111111111
+Maldives,8,0.0
+Austria,8,0.0
+Poland,8,0.0
+Mongolia,8,0.0
+Czech Republic,8,0.125
+Finland,8,0.0
+Denmark,7,0.42857142857142855
+Belgium,7,0.14285714285714285
+Greece,7,0.14285714285714285
+New Caledonia,6,0.0
+Portugal,6,0.16666666666666666
+Argentina,6,0.0
+Bahrain,5,0.6
+Ukraine,5,0.0
+Norway,5,0.2
+Colombia,4,0.0
+Romania,4,0.5
+Peru,4,0.0
+South Africa,3,0.0
+Kazakhstan,3,0.6666666666666666
+Kenya,3,0.3333333333333333
+Hungary,3,0.0
+Guam,2,0.0
+Cyprus,2,0.0
+Croatia,2,0.0
+Timor-Leste,2,0.0
+Israel,2,0.0
+Slovenia,2,0.0
+Solomon Islands,2,0.0
+Tunisia,2,0.0
+Guatemala,1,0.0
+Ghana,1,0.0
+Gibraltar,1,0.0
+Bulgaria,1,0.0
+Bhutan,1,0.0
+Algeria,1,0.0
+Afghanistan,1,0.0
+Egypt,1,0.0
+Estonia,1,0.0
+Belarus,1,0.0
+Czechia,1,0.0
+Iraq,1,1.0
+Papua New Guinea,1,0.0
+Pakistan,1,1.0
+Panama,1,0.0
+Nicaragua,1,0.0
+Norfolk Island,1,0.0
+Lebanon,1,0.0
+Malta,1,0.0
+Jordan,1,0.0
+Paraguay,1,0.0
+Slovakia,1,0.0
+Seychelles,1,1.0
+Tonga,1,0.0
+Tanzania,1,0.0
+Svalbard & Jan Mayen,1,0.0
+Vanuatu,1,1.0
